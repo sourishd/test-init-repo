@@ -1,1 +1,2 @@
-This is created to verify initilization of new repository and pushing the same to git-hub. Adding text from local
+This is created to verify initilization of new repository and pushing the same to git-hub, Adding text from local, adding some text
+Adding a new line
